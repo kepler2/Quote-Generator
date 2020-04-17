@@ -17,7 +17,15 @@ let quotes = [
     '"To live is the rarest thing in the world. Most people exist, that is all." – Oscar Wilde',
     '"I find that the harder I work, the more luck I seem to have." - Thomas Jefferson',
     '"Success is not final; failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill',
-    '"Bitches ain\'t shit but hoes\'n\'tricks" - Mahatma Gandhi',
+    '"The question isn\'t who is going to let me; it\'s who is going to stop me." - Ayn Rand',
+    '"Winning isn\'t everything, but wanting to win is." - Vince Lombardi',
+    '"You may be disappointed if you fail, but you are doomed if you don\'t try." - Beverly Sills',
+    '"Too many of us are not living our dreams because we are living our fears." - Les Brown',
+    '"Whatever the mind of man can conceive and believe, it can achieve." - Napoleon Hill',
+    '"You miss 100% of the shots you don\'t take." - Wayne Gretzky',
+    '"It does not matter how slowly you go as long as you do not stop." - Confucius',
+    '“Life is like riding a bicycle. To keep your balance, you must keep moving.” - Albert Einstein',
+    '"If you can\'t explain it simply, you don\'t understand it well enough." - Albert Einstein'
 ];
 
 
