@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow: hidden;
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.container {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.container h1 {
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.918);
+}
+
+#quoteDisplay {
+    margin: 1em;
+    height: 20vh;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 1.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 150%;
+}
+
+.datetime {
+    font-size: 1.5em;
+    border-bottom: 2px solid white;
+    padding: 1em;
+    color: white;
+    width: 70%;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    margin: 70px;
+    padding: 1em;
+    background-color: black;
+    border: solid thin white;
+    color: white;
+    font-weight: bold;
+    opacity: 70%;
+    border-radius: 10px;
+    outline: none;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border: solid thin black;
+    transition: 0.5s ease;
+    outline: none;
+    opacity: 70%;
+}
+
+@media (max-width: 768px)
+{
+    #quoteDisplay {
+        font-size: 1.5em
+    }
+}
+
+
