@@ -9,7 +9,8 @@ body {
     overflow: hidden;
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
+    background-position: bottom;
 }
 
 .container {
