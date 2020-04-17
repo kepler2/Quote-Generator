@@ -16,7 +16,8 @@ let quotes = [
     '"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." - Dr. Seuss',
     '"To live is the rarest thing in the world. Most people exist, that is all." – Oscar Wilde',
     '"I find that the harder I work, the more luck I seem to have." - Thomas Jefferson',
-    '"Success is not final; failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill'
+    '"Success is not final; failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill',
+    '"Bitches ain\'t shit but hoes\'n\'tricks" - Mahatma Gandhi',
 ];
 
 
