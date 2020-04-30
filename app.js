@@ -26,7 +26,7 @@ let quotes = [
     '"It does not matter how slowly you go as long as you do not stop." - Confucius',
     '“Life is like riding a bicycle. To keep your balance, you must keep moving.” - Albert Einstein',
     '"If you can\'t explain it simply, you don\'t understand it well enough." - Albert Einstein',
-    '"Life is like a piano; the white keys represent happiness and the black show sadness. But as you go through life\'s journey, remember that the black keys also create music. - Andrei Tamm"
+    '"Life is like a piano; the white keys represent happiness and the black show sadness. But as you go through life\'s journey, remember that the black keys also create music." - Andrei Tamm'
 ];
 
 
